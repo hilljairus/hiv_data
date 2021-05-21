@@ -9,4 +9,5 @@ app_server <- function( input, output, session ) {
   observe(session$setCurrentTheme(
     if (isTRUE(input$dark_mode)) dark else light
   ))
+  callModule(mod_sidebar_server,"sb")
 }

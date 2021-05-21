@@ -1,0 +1,1293 @@
+Age,Indicator,County,Value
+ADULTS (15-49),Overall Prevalence,Kenya,0.048
+ADULTS (15-49),Overall Prevalence,Nairobi,0.061
+ADULTS (15-49),Overall Prevalence,Mombasa,0.041
+ADULTS (15-49),Overall Prevalence,Kwale,0.038
+ADULTS (15-49),Overall Prevalence,Kilifi,0.038
+ADULTS (15-49),Overall Prevalence,Lamu,0.03
+ADULTS (15-49),Overall Prevalence,Taita Taveta,0.041
+ADULTS (15-49),Overall Prevalence,Tana River,0.013
+ADULTS (15-49),Overall Prevalence,Garissa,0.008
+ADULTS (15-49),Overall Prevalence,Mandera,0.002
+ADULTS (15-49),Overall Prevalence,Wajir,0.001
+ADULTS (15-49),Overall Prevalence,Embu,0.028
+ADULTS (15-49),Overall Prevalence,Marsabit,0.014
+ADULTS (15-49),Overall Prevalence,Meru,0.024
+ADULTS (15-49),Overall Prevalence,Isiolo,0.032
+ADULTS (15-49),Overall Prevalence,Makueni,0.042
+ADULTS (15-49),Overall Prevalence,Kitui,0.045
+ADULTS (15-49),Overall Prevalence,Machakos,0.038
+ADULTS (15-49),Overall Prevalence,Tharaka Nithi,0.032
+ADULTS (15-49),Overall Prevalence,Nyeri,0.037
+ADULTS (15-49),Overall Prevalence,Nyandarua,0.035
+ADULTS (15-49),Overall Prevalence,Kiambu,0.04
+ADULTS (15-49),Overall Prevalence,Murang’a,0.042
+ADULTS (15-49),Overall Prevalence,Kirinyaga,0.031
+ADULTS (15-49),Overall Prevalence,West Pokot,0.016
+ADULTS (15-49),Overall Prevalence,Turkana,0.032
+ADULTS (15-49),Overall Prevalence,Trans Nzoia,0.043
+ADULTS (15-49),Overall Prevalence,Narok,0.027
+ADULTS (15-49),Overall Prevalence,Nandi,0.02
+ADULTS (15-49),Overall Prevalence,Nakuru,0.034
+ADULTS (15-49),Overall Prevalence,Elgeyo Marakwet,0.016
+ADULTS (15-49),Overall Prevalence,Laikipia,0.027
+ADULTS (15-49),Overall Prevalence,Kericho,0.029
+ADULTS (15-49),Overall Prevalence,Kajiado,0.039
+ADULTS (15-49),Overall Prevalence,Bomet,0.019
+ADULTS (15-49),Overall Prevalence,Baringo,0.013
+ADULTS (15-49),Overall Prevalence,Samburu,0.018
+ADULTS (15-49),Overall Prevalence,Uasin Gishu,0.039
+ADULTS (15-49),Overall Prevalence,Bungoma,0.032
+ADULTS (15-49),Overall Prevalence,Kakamega,0.045
+ADULTS (15-49),Overall Prevalence,Busia,0.077
+ADULTS (15-49),Overall Prevalence,Vihiga,0.054
+ADULTS (15-49),Overall Prevalence,Siaya,0.21
+ADULTS (15-49),Overall Prevalence,Kisii,0.044
+ADULTS (15-49),Overall Prevalence,Migori,0.133
+ADULTS (15-49),Overall Prevalence,Kisumu,0.163
+ADULTS (15-49),Overall Prevalence,Homa Bay,0.207
+ADULTS (15-49),Overall Prevalence,Nyamira,0.042
+ADULTS (15-49),Male Prevalence,Kenya,0.045
+ADULTS (15-49),Male Prevalence,Nairobi,0.047
+ADULTS (15-49),Male Prevalence,Mombasa,0.025
+ADULTS (15-49),Male Prevalence,Kwale,0.023
+ADULTS (15-49),Male Prevalence,Kilifi,0.023
+ADULTS (15-49),Male Prevalence,Lamu,0.018
+ADULTS (15-49),Male Prevalence,Taita Taveta,0.025
+ADULTS (15-49),Male Prevalence,Tana River,0.008
+ADULTS (15-49),Male Prevalence,Garissa,0.003
+ADULTS (15-49),Male Prevalence,Mandera,0.001
+ADULTS (15-49),Male Prevalence,Wajir,0.0003
+ADULTS (15-49),Male Prevalence,Embu,0.016
+ADULTS (15-49),Male Prevalence,Marsabit,0.008
+ADULTS (15-49),Male Prevalence,Meru,0.014
+ADULTS (15-49),Male Prevalence,Isiolo,0.019
+ADULTS (15-49),Male Prevalence,Makueni,0.025
+ADULTS (15-49),Male Prevalence,Kitui,0.027
+ADULTS (15-49),Male Prevalence,Machakos,0.022
+ADULTS (15-49),Male Prevalence,Tharaka Nithi,0.019
+ADULTS (15-49),Male Prevalence,Nyeri,0.019
+ADULTS (15-49),Male Prevalence,Nyandarua,0.019
+ADULTS (15-49),Male Prevalence,Kiambu,0.021
+ADULTS (15-49),Male Prevalence,Murang’a,0.022
+ADULTS (15-49),Male Prevalence,Kirinyaga,0.017
+ADULTS (15-49),Male Prevalence,West Pokot,0.013
+ADULTS (15-49),Male Prevalence,Turkana,0.027
+ADULTS (15-49),Male Prevalence,Trans Nzoia,0.037
+ADULTS (15-49),Male Prevalence,Narok,0.023
+ADULTS (15-49),Male Prevalence,Nandi,0.017
+ADULTS (15-49),Male Prevalence,Nakuru,0.029
+ADULTS (15-49),Male Prevalence,Elgeyo Marakwet,0.014
+ADULTS (15-49),Male Prevalence,Laikipia,0.023
+ADULTS (15-49),Male Prevalence,Kericho,0.024
+ADULTS (15-49),Male Prevalence,Kajiado,0.033
+ADULTS (15-49),Male Prevalence,Bomet,0.016
+ADULTS (15-49),Male Prevalence,Baringo,0.011
+ADULTS (15-49),Male Prevalence,Samburu,0.015
+ADULTS (15-49),Male Prevalence,Uasin Gishu,0.033
+ADULTS (15-49),Male Prevalence,Bungoma,0.024
+ADULTS (15-49),Male Prevalence,Kakamega,0.034
+ADULTS (15-49),Male Prevalence,Busia,0.057
+ADULTS (15-49),Male Prevalence,Vihiga,0.04
+ADULTS (15-49),Male Prevalence,Siaya,0.194
+ADULTS (15-49),Male Prevalence,Kisii,0.04
+ADULTS (15-49),Male Prevalence,Migori,0.122
+ADULTS (15-49),Male Prevalence,Kisumu,0.15
+ADULTS (15-49),Male Prevalence,Homa Bay,0.191
+ADULTS (15-49),Male Prevalence,Nyamira,0.039
+ADULTS (15-49),Female Prevalence,Kenya,0.052
+ADULTS (15-49),Female Prevalence,Nairobi,0.075
+ADULTS (15-49),Female Prevalence,Mombasa,0.059
+ADULTS (15-49),Female Prevalence,Kwale,0.054
+ADULTS (15-49),Female Prevalence,Kilifi,0.054
+ADULTS (15-49),Female Prevalence,Lamu,0.043
+ADULTS (15-49),Female Prevalence,Taita Taveta,0.058
+ADULTS (15-49),Female Prevalence,Tana River,0.018
+ADULTS (15-49),Female Prevalence,Garissa,0.014
+ADULTS (15-49),Female Prevalence,Mandera,0.003
+ADULTS (15-49),Female Prevalence,Wajir,0.002
+ADULTS (15-49),Female Prevalence,Embu,0.038
+ADULTS (15-49),Female Prevalence,Marsabit,0.018
+ADULTS (15-49),Female Prevalence,Meru,0.033
+ADULTS (15-49),Female Prevalence,Isiolo,0.043
+ADULTS (15-49),Female Prevalence,Makueni,0.057
+ADULTS (15-49),Female Prevalence,Kitui,0.061
+ADULTS (15-49),Female Prevalence,Machakos,0.051
+ADULTS (15-49),Female Prevalence,Tharaka Nithi,0.044
+ADULTS (15-49),Female Prevalence,Nyeri,0.055
+ADULTS (15-49),Female Prevalence,Nyandarua,0.052
+ADULTS (15-49),Female Prevalence,Kiambu,0.059
+ADULTS (15-49),Female Prevalence,Murang’a,0.062
+ADULTS (15-49),Female Prevalence,Kirinyaga,0.046
+ADULTS (15-49),Female Prevalence,West Pokot,0.022
+ADULTS (15-49),Female Prevalence,Turkana,0.045
+ADULTS (15-49),Female Prevalence,Trans Nzoia,0.061
+ADULTS (15-49),Female Prevalence,Narok,0.039
+ADULTS (15-49),Female Prevalence,Nandi,0.029
+ADULTS (15-49),Female Prevalence,Nakuru,0.048
+ADULTS (15-49),Female Prevalence,Elgeyo Marakwet,0.023
+ADULTS (15-49),Female Prevalence,Laikipia,0.038
+ADULTS (15-49),Female Prevalence,Kericho,0.041
+ADULTS (15-49),Female Prevalence,Kajiado,0.055
+ADULTS (15-49),Female Prevalence,Bomet,0.027
+ADULTS (15-49),Female Prevalence,Baringo,0.019
+ADULTS (15-49),Female Prevalence,Samburu,0.025
+ADULTS (15-49),Female Prevalence,Uasin Gishu,0.055
+ADULTS (15-49),Female Prevalence,Bungoma,0.039
+ADULTS (15-49),Female Prevalence,Kakamega,0.056
+ADULTS (15-49),Female Prevalence,Busia,0.094
+ADULTS (15-49),Female Prevalence,Vihiga,0.067
+ADULTS (15-49),Female Prevalence,Siaya,0.224
+ADULTS (15-49),Female Prevalence,Kisii,0.047
+ADULTS (15-49),Female Prevalence,Migori,0.142
+ADULTS (15-49),Female Prevalence,Kisumu,0.174
+ADULTS (15-49),Female Prevalence,Homa Bay,0.221
+ADULTS (15-49),Female Prevalence,Nyamira,0.045
+ADULTS (15-49),Incidence (per 1000),Kenya,1.8
+ADULTS (15-49),Incidence (per 1000),Nairobi,2.2
+ADULTS (15-49),Incidence (per 1000),Mombasa,1.9
+ADULTS (15-49),Incidence (per 1000),Kwale,1.6
+ADULTS (15-49),Incidence (per 1000),Kilifi,1.6
+ADULTS (15-49),Incidence (per 1000),Lamu,1.3
+ADULTS (15-49),Incidence (per 1000),Taita Taveta,1.7
+ADULTS (15-49),Incidence (per 1000),Tana River,0.5
+ADULTS (15-49),Incidence (per 1000),Garissa,0
+ADULTS (15-49),Incidence (per 1000),Mandera,0
+ADULTS (15-49),Incidence (per 1000),Wajir,0
+ADULTS (15-49),Incidence (per 1000),Embu,1.1
+ADULTS (15-49),Incidence (per 1000),Marsabit,0.5
+ADULTS (15-49),Incidence (per 1000),Meru,0.9
+ADULTS (15-49),Incidence (per 1000),Isiolo,1.3
+ADULTS (15-49),Incidence (per 1000),Makueni,1.6
+ADULTS (15-49),Incidence (per 1000),Kitui,1.7
+ADULTS (15-49),Incidence (per 1000),Machakos,1.4
+ADULTS (15-49),Incidence (per 1000),Tharaka Nithi,1.2
+ADULTS (15-49),Incidence (per 1000),Nyeri,1.8
+ADULTS (15-49),Incidence (per 1000),Nyandarua,1.8
+ADULTS (15-49),Incidence (per 1000),Kiambu,2.2
+ADULTS (15-49),Incidence (per 1000),Murang’a,2
+ADULTS (15-49),Incidence (per 1000),Kirinyaga,1.6
+ADULTS (15-49),Incidence (per 1000),West Pokot,0.3
+ADULTS (15-49),Incidence (per 1000),Turkana,0.7
+ADULTS (15-49),Incidence (per 1000),Trans Nzoia,0.9
+ADULTS (15-49),Incidence (per 1000),Narok,0.6
+ADULTS (15-49),Incidence (per 1000),Nandi,0.4
+ADULTS (15-49),Incidence (per 1000),Nakuru,0.7
+ADULTS (15-49),Incidence (per 1000),Elgeyo Marakwet,0.3
+ADULTS (15-49),Incidence (per 1000),Laikipia,0.5
+ADULTS (15-49),Incidence (per 1000),Kericho,0.6
+ADULTS (15-49),Incidence (per 1000),Kajiado,0.8
+ADULTS (15-49),Incidence (per 1000),Bomet,0.4
+ADULTS (15-49),Incidence (per 1000),Baringo,0.3
+ADULTS (15-49),Incidence (per 1000),Samburu,0.4
+ADULTS (15-49),Incidence (per 1000),Uasin Gishu,0.8
+ADULTS (15-49),Incidence (per 1000),Bungoma,1.3
+ADULTS (15-49),Incidence (per 1000),Kakamega,1.8
+ADULTS (15-49),Incidence (per 1000),Busia,3.1
+ADULTS (15-49),Incidence (per 1000),Vihiga,2
+ADULTS (15-49),Incidence (per 1000),Siaya,7.7
+ADULTS (15-49),Incidence (per 1000),Kisii,1.5
+ADULTS (15-49),Incidence (per 1000),Migori,5
+ADULTS (15-49),Incidence (per 1000),Kisumu,6.3
+ADULTS (15-49),Incidence (per 1000),Homa Bay,8.2
+ADULTS (15-49),Incidence (per 1000),Nyamira,1.4
+ADULTS (15+),HIV+,Kenya,1388169
+ADULTS (15+),HIV+,Nairobi,182856
+ADULTS (15+),HIV+,Mombasa,38548
+ADULTS (15+),HIV+,Kwale,17877
+ADULTS (15+),HIV+,Kilifi,30597
+ADULTS (15+),HIV+,Lamu,2445
+ADULTS (15+),HIV+,Taita Taveta,9462
+ADULTS (15+),HIV+,Tana River,2071
+ADULTS (15+),HIV+,Garissa,2356
+ADULTS (15+),HIV+,Mandera,805
+ADULTS (15+),HIV+,Wajir,262
+ADULTS (15+),HIV+,Embu,9866
+ADULTS (15+),HIV+,Marsabit,2372
+ADULTS (15+),HIV+,Meru,22090
+ADULTS (15+),HIV+,Isiolo,2889
+ADULTS (15+),HIV+,Makueni,22621
+ADULTS (15+),HIV+,Kitui,26375
+ADULTS (15+),HIV+,Machakos,27695
+ADULTS (15+),HIV+,Tharaka Nithi,7779
+ADULTS (15+),HIV+,Nyeri,20559
+ADULTS (15+),HIV+,Nyandarua,15355
+ADULTS (15+),HIV+,Kiambu,56622
+ADULTS (15+),HIV+,Murang’a,29144
+ADULTS (15+),HIV+,Kirinyaga,13893
+ADULTS (15+),HIV+,West Pokot,5524
+ADULTS (15+),HIV+,Turkana,21343
+ADULTS (15+),HIV+,Trans Nzoia,26610
+ADULTS (15+),HIV+,Narok,16810
+ADULTS (15+),HIV+,Nandi,11712
+ADULTS (15+),HIV+,Nakuru,45549
+ADULTS (15+),HIV+,Elgeyo Marakwet,4400
+ADULTS (15+),HIV+,Laikipia,8530
+ADULTS (15+),HIV+,Kericho,16111
+ADULTS (15+),HIV+,Kajiado,22850
+ADULTS (15+),HIV+,Bomet,9761
+ADULTS (15+),HIV+,Baringo,5397
+ADULTS (15+),HIV+,Samburu,2820
+ADULTS (15+),HIV+,Uasin Gishu,29640
+ADULTS (15+),HIV+,Bungoma,27648
+ADULTS (15+),HIV+,Kakamega,48752
+ADULTS (15+),HIV+,Busia,35527
+ADULTS (15+),HIV+,Vihiga,18346
+ADULTS (15+),HIV+,Siaya,113605
+ADULTS (15+),HIV+,Kisii,34950
+ADULTS (15+),HIV+,Migori,79146
+ADULTS (15+),HIV+,Kisumu,112862
+ADULTS (15+),HIV+,Homa Bay,128199
+ADULTS (15+),HIV+,Nyamira,17537
+ADULTS (15+),New Infections,Kenya,44789
+ADULTS (15+),New Infections,Nairobi,6499
+ADULTS (15+),New Infections,Mombasa,1490
+ADULTS (15+),New Infections,Kwale,691
+ADULTS (15+),New Infections,Kilifi,1183
+ADULTS (15+),New Infections,Lamu,95
+ADULTS (15+),New Infections,Taita Taveta,366
+ADULTS (15+),New Infections,Tana River,80
+ADULTS (15+),New Infections,Garissa,0
+ADULTS (15+),New Infections,Mandera,0
+ADULTS (15+),New Infections,Wajir,0
+ADULTS (15+),New Infections,Embu,363
+ADULTS (15+),New Infections,Marsabit,87
+ADULTS (15+),New Infections,Meru,813
+ADULTS (15+),New Infections,Isiolo,106
+ADULTS (15+),New Infections,Makueni,832
+ADULTS (15+),New Infections,Kitui,970
+ADULTS (15+),New Infections,Machakos,1019
+ADULTS (15+),New Infections,Tharaka Nithi,286
+ADULTS (15+),New Infections,Nyeri,952
+ADULTS (15+),New Infections,Nyandarua,711
+ADULTS (15+),New Infections,Kiambu,2623
+ADULTS (15+),New Infections,Murang’a,1350
+ADULTS (15+),New Infections,Kirinyaga,644
+ADULTS (15+),New Infections,West Pokot,104
+ADULTS (15+),New Infections,Turkana,403
+ADULTS (15+),New Infections,Trans Nzoia,503
+ADULTS (15+),New Infections,Narok,317
+ADULTS (15+),New Infections,Nandi,221
+ADULTS (15+),New Infections,Nakuru,860
+ADULTS (15+),New Infections,Elgeyo Marakwet,83
+ADULTS (15+),New Infections,Laikipia,161
+ADULTS (15+),New Infections,Kericho,304
+ADULTS (15+),New Infections,Kajiado,432
+ADULTS (15+),New Infections,Bomet,184
+ADULTS (15+),New Infections,Baringo,102
+ADULTS (15+),New Infections,Samburu,53
+ADULTS (15+),New Infections,Uasin Gishu,560
+ADULTS (15+),New Infections,Bungoma,999
+ADULTS (15+),New Infections,Kakamega,1761
+ADULTS (15+),New Infections,Busia,1283
+ADULTS (15+),New Infections,Vihiga,663
+ADULTS (15+),New Infections,Siaya,3419
+ADULTS (15+),New Infections,Kisii,1052
+ADULTS (15+),New Infections,Migori,2382
+ADULTS (15+),New Infections,Kisumu,3396
+ADULTS (15+),New Infections,Homa Bay,3858
+ADULTS (15+),New Infections,Nyamira,528
+ADULTS (15+),HIV-related Deaths,Kenya,23902
+ADULTS (15+),HIV-related Deaths,Nairobi,2232
+ADULTS (15+),HIV-related Deaths,Mombasa,654
+ADULTS (15+),HIV-related Deaths,Kwale,303
+ADULTS (15+),HIV-related Deaths,Kilifi,519
+ADULTS (15+),HIV-related Deaths,Lamu,41
+ADULTS (15+),HIV-related Deaths,Taita Taveta,160
+ADULTS (15+),HIV-related Deaths,Tana River,35
+ADULTS (15+),HIV-related Deaths,Garissa,144
+ADULTS (15+),HIV-related Deaths,Mandera,49
+ADULTS (15+),HIV-related Deaths,Wajir,16
+ADULTS (15+),HIV-related Deaths,Embu,193
+ADULTS (15+),HIV-related Deaths,Marsabit,46
+ADULTS (15+),HIV-related Deaths,Meru,432
+ADULTS (15+),HIV-related Deaths,Isiolo,57
+ADULTS (15+),HIV-related Deaths,Makueni,443
+ADULTS (15+),HIV-related Deaths,Kitui,516
+ADULTS (15+),HIV-related Deaths,Machakos,542
+ADULTS (15+),HIV-related Deaths,Tharaka Nithi,152
+ADULTS (15+),HIV-related Deaths,Nyeri,398
+ADULTS (15+),HIV-related Deaths,Nyandarua,297
+ADULTS (15+),HIV-related Deaths,Kiambu,1096
+ADULTS (15+),HIV-related Deaths,Murang’a,564
+ADULTS (15+),HIV-related Deaths,Kirinyaga,269
+ADULTS (15+),HIV-related Deaths,West Pokot,131
+ADULTS (15+),HIV-related Deaths,Turkana,506
+ADULTS (15+),HIV-related Deaths,Trans Nzoia,631
+ADULTS (15+),HIV-related Deaths,Narok,399
+ADULTS (15+),HIV-related Deaths,Nandi,278
+ADULTS (15+),HIV-related Deaths,Nakuru,1081
+ADULTS (15+),HIV-related Deaths,Elgeyo Marakwet,104
+ADULTS (15+),HIV-related Deaths,Laikipia,202
+ADULTS (15+),HIV-related Deaths,Kericho,382
+ADULTS (15+),HIV-related Deaths,Kajiado,542
+ADULTS (15+),HIV-related Deaths,Bomet,232
+ADULTS (15+),HIV-related Deaths,Baringo,128
+ADULTS (15+),HIV-related Deaths,Samburu,67
+ADULTS (15+),HIV-related Deaths,Uasin Gishu,703
+ADULTS (15+),HIV-related Deaths,Bungoma,450
+ADULTS (15+),HIV-related Deaths,Kakamega,794
+ADULTS (15+),HIV-related Deaths,Busia,578
+ADULTS (15+),HIV-related Deaths,Vihiga,299
+ADULTS (15+),HIV-related Deaths,Siaya,1690
+ADULTS (15+),HIV-related Deaths,Kisii,520
+ADULTS (15+),HIV-related Deaths,Migori,1177
+ADULTS (15+),HIV-related Deaths,Kisumu,1679
+ADULTS (15+),HIV-related Deaths,Homa Bay,1907
+ADULTS (15+),HIV-related Deaths,Nyamira,261
+CHILDREN (0-14),HIV+,Kenya,105213
+CHILDREN (0-14),HIV+,Nairobi,8137
+CHILDREN (0-14),HIV+,Mombasa,3051
+CHILDREN (0-14),HIV+,Kwale,1415
+CHILDREN (0-14),HIV+,Kilifi,2422
+CHILDREN (0-14),HIV+,Lamu,194
+CHILDREN (0-14),HIV+,Taita Taveta,749
+CHILDREN (0-14),HIV+,Tana River,164
+CHILDREN (0-14),HIV+,Garissa,532
+CHILDREN (0-14),HIV+,Mandera,182
+CHILDREN (0-14),HIV+,Wajir,59
+CHILDREN (0-14),HIV+,Embu,855
+CHILDREN (0-14),HIV+,Marsabit,206
+CHILDREN (0-14),HIV+,Meru,1914
+CHILDREN (0-14),HIV+,Isiolo,250
+CHILDREN (0-14),HIV+,Makueni,1960
+CHILDREN (0-14),HIV+,Kitui,2286
+CHILDREN (0-14),HIV+,Machakos,2400
+CHILDREN (0-14),HIV+,Tharaka Nithi,674
+CHILDREN (0-14),HIV+,Nyeri,869
+CHILDREN (0-14),HIV+,Nyandarua,649
+CHILDREN (0-14),HIV+,Kiambu,2394
+CHILDREN (0-14),HIV+,Murang’a,1232
+CHILDREN (0-14),HIV+,Kirinyaga,588
+CHILDREN (0-14),HIV+,West Pokot,488
+CHILDREN (0-14),HIV+,Turkana,1887
+CHILDREN (0-14),HIV+,Trans Nzoia,2352
+CHILDREN (0-14),HIV+,Narok,1486
+CHILDREN (0-14),HIV+,Nandi,1035
+CHILDREN (0-14),HIV+,Nakuru,4026
+CHILDREN (0-14),HIV+,Elgeyo Marakwet,389
+CHILDREN (0-14),HIV+,Laikipia,754
+CHILDREN (0-14),HIV+,Kericho,1424
+CHILDREN (0-14),HIV+,Kajiado,2020
+CHILDREN (0-14),HIV+,Bomet,863
+CHILDREN (0-14),HIV+,Baringo,477
+CHILDREN (0-14),HIV+,Samburu,249
+CHILDREN (0-14),HIV+,Uasin Gishu,2620
+CHILDREN (0-14),HIV+,Bungoma,2396
+CHILDREN (0-14),HIV+,Kakamega,4224
+CHILDREN (0-14),HIV+,Busia,3078
+CHILDREN (0-14),HIV+,Vihiga,1590
+CHILDREN (0-14),HIV+,Siaya,9501
+CHILDREN (0-14),HIV+,Kisii,2923
+CHILDREN (0-14),HIV+,Migori,6619
+CHILDREN (0-14),HIV+,Kisumu,9439
+CHILDREN (0-14),HIV+,Homa Bay,10722
+CHILDREN (0-14),HIV+,Nyamira,1467
+CHILDREN (0-14),New Infections,Kenya,7978
+CHILDREN (0-14),New Infections,Nairobi,660
+CHILDREN (0-14),New Infections,Mombasa,248
+CHILDREN (0-14),New Infections,Kwale,115
+CHILDREN (0-14),New Infections,Kilifi,197
+CHILDREN (0-14),New Infections,Lamu,16
+CHILDREN (0-14),New Infections,Taita Taveta,61
+CHILDREN (0-14),New Infections,Tana River,13
+CHILDREN (0-14),New Infections,Garissa,55
+CHILDREN (0-14),New Infections,Mandera,19
+CHILDREN (0-14),New Infections,Wajir,6
+CHILDREN (0-14),New Infections,Embu,66
+CHILDREN (0-14),New Infections,Marsabit,16
+CHILDREN (0-14),New Infections,Meru,147
+CHILDREN (0-14),New Infections,Isiolo,19
+CHILDREN (0-14),New Infections,Makueni,151
+CHILDREN (0-14),New Infections,Kitui,176
+CHILDREN (0-14),New Infections,Machakos,185
+CHILDREN (0-14),New Infections,Tharaka Nithi,52
+CHILDREN (0-14),New Infections,Nyeri,51
+CHILDREN (0-14),New Infections,Nyandarua,38
+CHILDREN (0-14),New Infections,Kiambu,139
+CHILDREN (0-14),New Infections,Murang’a,72
+CHILDREN (0-14),New Infections,Kirinyaga,34
+CHILDREN (0-14),New Infections,West Pokot,39
+CHILDREN (0-14),New Infections,Turkana,152
+CHILDREN (0-14),New Infections,Trans Nzoia,190
+CHILDREN (0-14),New Infections,Narok,120
+CHILDREN (0-14),New Infections,Nandi,84
+CHILDREN (0-14),New Infections,Nakuru,325
+CHILDREN (0-14),New Infections,Elgeyo Marakwet,31
+CHILDREN (0-14),New Infections,Laikipia,61
+CHILDREN (0-14),New Infections,Kericho,115
+CHILDREN (0-14),New Infections,Kajiado,163
+CHILDREN (0-14),New Infections,Bomet,70
+CHILDREN (0-14),New Infections,Baringo,39
+CHILDREN (0-14),New Infections,Samburu,20
+CHILDREN (0-14),New Infections,Uasin Gishu,212
+CHILDREN (0-14),New Infections,Bungoma,248
+CHILDREN (0-14),New Infections,Kakamega,437
+CHILDREN (0-14),New Infections,Busia,318
+CHILDREN (0-14),New Infections,Vihiga,164
+CHILDREN (0-14),New Infections,Siaya,620
+CHILDREN (0-14),New Infections,Kisii,191
+CHILDREN (0-14),New Infections,Migori,432
+CHILDREN (0-14),New Infections,Kisumu,616
+CHILDREN (0-14),New Infections,Homa Bay,700
+CHILDREN (0-14),New Infections,Nyamira,96
+CHILDREN (0-14),HIV-related Deaths,Kenya,4312
+CHILDREN (0-14),HIV-related Deaths,Nairobi,380
+CHILDREN (0-14),HIV-related Deaths,Mombasa,124
+CHILDREN (0-14),HIV-related Deaths,Kwale,57
+CHILDREN (0-14),HIV-related Deaths,Kilifi,98
+CHILDREN (0-14),HIV-related Deaths,Lamu,8
+CHILDREN (0-14),HIV-related Deaths,Taita Taveta,30
+CHILDREN (0-14),HIV-related Deaths,Tana River,7
+CHILDREN (0-14),HIV-related Deaths,Garissa,50
+CHILDREN (0-14),HIV-related Deaths,Mandera,17
+CHILDREN (0-14),HIV-related Deaths,Wajir,6
+CHILDREN (0-14),HIV-related Deaths,Embu,31
+CHILDREN (0-14),HIV-related Deaths,Marsabit,8
+CHILDREN (0-14),HIV-related Deaths,Meru,70
+CHILDREN (0-14),HIV-related Deaths,Isiolo,9
+CHILDREN (0-14),HIV-related Deaths,Makueni,72
+CHILDREN (0-14),HIV-related Deaths,Kitui,84
+CHILDREN (0-14),HIV-related Deaths,Machakos,88
+CHILDREN (0-14),HIV-related Deaths,Tharaka Nithi,25
+CHILDREN (0-14),HIV-related Deaths,Nyeri,26
+CHILDREN (0-14),HIV-related Deaths,Nyandarua,19
+CHILDREN (0-14),HIV-related Deaths,Kiambu,71
+CHILDREN (0-14),HIV-related Deaths,Murang’a,36
+CHILDREN (0-14),HIV-related Deaths,Kirinyaga,17
+CHILDREN (0-14),HIV-related Deaths,West Pokot,21
+CHILDREN (0-14),HIV-related Deaths,Turkana,81
+CHILDREN (0-14),HIV-related Deaths,Trans Nzoia,101
+CHILDREN (0-14),HIV-related Deaths,Narok,64
+CHILDREN (0-14),HIV-related Deaths,Nandi,45
+CHILDREN (0-14),HIV-related Deaths,Nakuru,174
+CHILDREN (0-14),HIV-related Deaths,Elgeyo Marakwet,17
+CHILDREN (0-14),HIV-related Deaths,Laikipia,33
+CHILDREN (0-14),HIV-related Deaths,Kericho,61
+CHILDREN (0-14),HIV-related Deaths,Kajiado,87
+CHILDREN (0-14),HIV-related Deaths,Bomet,37
+CHILDREN (0-14),HIV-related Deaths,Baringo,21
+CHILDREN (0-14),HIV-related Deaths,Samburu,11
+CHILDREN (0-14),HIV-related Deaths,Uasin Gishu,113
+CHILDREN (0-14),HIV-related Deaths,Bungoma,111
+CHILDREN (0-14),HIV-related Deaths,Kakamega,195
+CHILDREN (0-14),HIV-related Deaths,Busia,142
+CHILDREN (0-14),HIV-related Deaths,Vihiga,73
+CHILDREN (0-14),HIV-related Deaths,Siaya,372
+CHILDREN (0-14),HIV-related Deaths,Kisii,114
+CHILDREN (0-14),HIV-related Deaths,Migori,259
+CHILDREN (0-14),HIV-related Deaths,Kisumu,369
+CHILDREN (0-14),HIV-related Deaths,Homa Bay,420
+CHILDREN (0-14),HIV-related Deaths,Nyamira,57
+TOTAL,HIV+,Kenya,1493382
+TOTAL,HIV+,Nairobi,190993
+TOTAL,HIV+,Mombasa,41599
+TOTAL,HIV+,Kwale,19292
+TOTAL,HIV+,Kilifi,33019
+TOTAL,HIV+,Lamu,2638
+TOTAL,HIV+,Taita Taveta,10211
+TOTAL,HIV+,Tana River,2235
+TOTAL,HIV+,Garissa,2888
+TOTAL,HIV+,Mandera,987
+TOTAL,HIV+,Wajir,321
+TOTAL,HIV+,Embu,10721
+TOTAL,HIV+,Marsabit,2577
+TOTAL,HIV+,Meru,24005
+TOTAL,HIV+,Isiolo,3139
+TOTAL,HIV+,Makueni,24581
+TOTAL,HIV+,Kitui,28661
+TOTAL,HIV+,Machakos,30095
+TOTAL,HIV+,Tharaka Nithi,8453
+TOTAL,HIV+,Nyeri,21428
+TOTAL,HIV+,Nyandarua,16005
+TOTAL,HIV+,Kiambu,59016
+TOTAL,HIV+,Murang’a,30376
+TOTAL,HIV+,Kirinyaga,14481
+TOTAL,HIV+,West Pokot,6012
+TOTAL,HIV+,Turkana,23230
+TOTAL,HIV+,Trans Nzoia,28962
+TOTAL,HIV+,Narok,18296
+TOTAL,HIV+,Nandi,12748
+TOTAL,HIV+,Nakuru,49575
+TOTAL,HIV+,Elgeyo Marakwet,4789
+TOTAL,HIV+,Laikipia,9284
+TOTAL,HIV+,Kericho,17535
+TOTAL,HIV+,Kajiado,24869
+TOTAL,HIV+,Bomet,10624
+TOTAL,HIV+,Baringo,5874
+TOTAL,HIV+,Samburu,3069
+TOTAL,HIV+,Uasin Gishu,32260
+TOTAL,HIV+,Bungoma,30044
+TOTAL,HIV+,Kakamega,52976
+TOTAL,HIV+,Busia,38606
+TOTAL,HIV+,Vihiga,19935
+TOTAL,HIV+,Siaya,123107
+TOTAL,HIV+,Kisii,37874
+TOTAL,HIV+,Migori,85765
+TOTAL,HIV+,Kisumu,122301
+TOTAL,HIV+,Homa Bay,138921
+TOTAL,HIV+,Nyamira,19004
+TOTAL,New Infections,Kenya,52767
+TOTAL,New Infections,Nairobi,7159
+TOTAL,New Infections,Mombasa,1738
+TOTAL,New Infections,Kwale,806
+TOTAL,New Infections,Kilifi,1380
+TOTAL,New Infections,Lamu,110
+TOTAL,New Infections,Taita Taveta,427
+TOTAL,New Infections,Tana River,93
+TOTAL,New Infections,Garissa,55
+TOTAL,New Infections,Mandera,19
+TOTAL,New Infections,Wajir,6
+TOTAL,New Infections,Embu,429
+TOTAL,New Infections,Marsabit,103
+TOTAL,New Infections,Meru,960
+TOTAL,New Infections,Isiolo,126
+TOTAL,New Infections,Makueni,983
+TOTAL,New Infections,Kitui,1146
+TOTAL,New Infections,Machakos,1203
+TOTAL,New Infections,Tharaka Nithi,338
+TOTAL,New Infections,Nyeri,1003
+TOTAL,New Infections,Nyandarua,749
+TOTAL,New Infections,Kiambu,2763
+TOTAL,New Infections,Murang’a,1422
+TOTAL,New Infections,Kirinyaga,678
+TOTAL,New Infections,West Pokot,144
+TOTAL,New Infections,Turkana,556
+TOTAL,New Infections,Trans Nzoia,693
+TOTAL,New Infections,Narok,438
+TOTAL,New Infections,Nandi,305
+TOTAL,New Infections,Nakuru,1186
+TOTAL,New Infections,Elgeyo Marakwet,115
+TOTAL,New Infections,Laikipia,222
+TOTAL,New Infections,Kericho,419
+TOTAL,New Infections,Kajiado,595
+TOTAL,New Infections,Bomet,254
+TOTAL,New Infections,Baringo,140
+TOTAL,New Infections,Samburu,73
+TOTAL,New Infections,Uasin Gishu,771
+TOTAL,New Infections,Bungoma,1246
+TOTAL,New Infections,Kakamega,2197
+TOTAL,New Infections,Busia,1601
+TOTAL,New Infections,Vihiga,827
+TOTAL,New Infections,Siaya,4039
+TOTAL,New Infections,Kisii,1243
+TOTAL,New Infections,Migori,2814
+TOTAL,New Infections,Kisumu,4012
+TOTAL,New Infections,Homa Bay,4558
+TOTAL,New Infections,Nyamira,623
+TOTAL,HIV-related Deaths,Kenya,28214
+TOTAL,HIV-related Deaths,Nairobi,2612
+TOTAL,HIV-related Deaths,Mombasa,777
+TOTAL,HIV-related Deaths,Kwale,361
+TOTAL,HIV-related Deaths,Kilifi,617
+TOTAL,HIV-related Deaths,Lamu,49
+TOTAL,HIV-related Deaths,Taita Taveta,191
+TOTAL,HIV-related Deaths,Tana River,42
+TOTAL,HIV-related Deaths,Garissa,193
+TOTAL,HIV-related Deaths,Mandera,66
+TOTAL,HIV-related Deaths,Wajir,21
+TOTAL,HIV-related Deaths,Embu,225
+TOTAL,HIV-related Deaths,Marsabit,54
+TOTAL,HIV-related Deaths,Meru,503
+TOTAL,HIV-related Deaths,Isiolo,66
+TOTAL,HIV-related Deaths,Makueni,515
+TOTAL,HIV-related Deaths,Kitui,600
+TOTAL,HIV-related Deaths,Machakos,630
+TOTAL,HIV-related Deaths,Tharaka Nithi,177
+TOTAL,HIV-related Deaths,Nyeri,424
+TOTAL,HIV-related Deaths,Nyandarua,316
+TOTAL,HIV-related Deaths,Kiambu,1166
+TOTAL,HIV-related Deaths,Murang’a,600
+TOTAL,HIV-related Deaths,Kirinyaga,286
+TOTAL,HIV-related Deaths,West Pokot,152
+TOTAL,HIV-related Deaths,Turkana,588
+TOTAL,HIV-related Deaths,Trans Nzoia,733
+TOTAL,HIV-related Deaths,Narok,463
+TOTAL,HIV-related Deaths,Nandi,323
+TOTAL,HIV-related Deaths,Nakuru,1255
+TOTAL,HIV-related Deaths,Elgeyo Marakwet,121
+TOTAL,HIV-related Deaths,Laikipia,235
+TOTAL,HIV-related Deaths,Kericho,444
+TOTAL,HIV-related Deaths,Kajiado,629
+TOTAL,HIV-related Deaths,Bomet,269
+TOTAL,HIV-related Deaths,Baringo,149
+TOTAL,HIV-related Deaths,Samburu,78
+TOTAL,HIV-related Deaths,Uasin Gishu,816
+TOTAL,HIV-related Deaths,Bungoma,561
+TOTAL,HIV-related Deaths,Kakamega,989
+TOTAL,HIV-related Deaths,Busia,721
+TOTAL,HIV-related Deaths,Vihiga,372
+TOTAL,HIV-related Deaths,Siaya,2062
+TOTAL,HIV-related Deaths,Kisii,634
+TOTAL,HIV-related Deaths,Migori,1436
+TOTAL,HIV-related Deaths,Kisumu,2048
+TOTAL,HIV-related Deaths,Homa Bay,2326
+TOTAL,HIV-related Deaths,Nyamira,318
+ADULTS,Adults on ART,Kenya,1035618
+ADULTS,Adults on ART,Nairobi,140724
+ADULTS,Adults on ART,Mombasa,41748
+ADULTS,Adults on ART,Kwale,7286
+ADULTS,Adults on ART,Kilifi,21224
+ADULTS,Adults on ART,Lamu,954
+ADULTS,Adults on ART,Taita Taveta,4710
+ADULTS,Adults on ART,Tana River,657
+ADULTS,Adults on ART,Garissa,1296
+ADULTS,Adults on ART,Mandera,445
+ADULTS,Adults on ART,Wajir,194
+ADULTS,Adults on ART,Embu,7846
+ADULTS,Adults on ART,Marsabit,1155
+ADULTS,Adults on ART,Meru,17283
+ADULTS,Adults on ART,Isiolo,1972
+ADULTS,Adults on ART,Makueni,15841
+ADULTS,Adults on ART,Kitui,17257
+ADULTS,Adults on ART,Machakos,22712
+ADULTS,Adults on ART,Tharaka Nithi,6022
+ADULTS,Adults on ART,Nyeri,12643
+ADULTS,Adults on ART,Nyandarua,5944
+ADULTS,Adults on ART,Kiambu,34417
+ADULTS,Adults on ART,Murang’a,12922
+ADULTS,Adults on ART,Kirinyaga,9074
+ADULTS,Adults on ART,West Pokot,3164
+ADULTS,Adults on ART,Turkana,4945
+ADULTS,Adults on ART,Trans Nzoia,12510
+ADULTS,Adults on ART,Narok,7512
+ADULTS,Adults on ART,Nandi,7681
+ADULTS,Adults on ART,Nakuru,37619
+ADULTS,Adults on ART,Elgeyo Marakwet,2540
+ADULTS,Adults on ART,Laikipia,5386
+ADULTS,Adults on ART,Kericho,16045
+ADULTS,Adults on ART,Kajiado,11658
+ADULTS,Adults on ART,Bomet,9186
+ADULTS,Adults on ART,Baringo,3450
+ADULTS,Adults on ART,Samburu,1197
+ADULTS,Adults on ART,Uasin Gishu,29557
+ADULTS,Adults on ART,Bungoma,22375
+ADULTS,Adults on ART,Kakamega,40525
+ADULTS,Adults on ART,Busia,33654
+ADULTS,Adults on ART,Vihiga,13131
+ADULTS,Adults on ART,Siaya,80123
+ADULTS,Adults on ART,Kisii,27571
+ADULTS,Adults on ART,Migori,65820
+ADULTS,Adults on ART,Kisumu,101527
+ADULTS,Adults on ART,Homa Bay,100677
+ADULTS,Adults on ART,Nyamira,13439
+ADULTS,Coverage,Kenya,0.75
+ADULTS,Coverage,Nairobi,0.77
+ADULTS,Coverage,Kwale,0.41
+ADULTS,Coverage,Kilifi,0.69
+ADULTS,Coverage,Lamu,0.39
+ADULTS,Coverage,Taita Taveta,0.5
+ADULTS,Coverage,Tana River,0.32
+ADULTS,Coverage,Garissa,0.55
+ADULTS,Coverage,Mandera,0.55
+ADULTS,Coverage,Wajir,0.74
+ADULTS,Coverage,Embu,0.8
+ADULTS,Coverage,Marsabit,0.49
+ADULTS,Coverage,Meru,0.78
+ADULTS,Coverage,Isiolo,0.68
+ADULTS,Coverage,Makueni,0.7
+ADULTS,Coverage,Kitui,0.65
+ADULTS,Coverage,Machakos,0.82
+ADULTS,Coverage,Tharaka Nithi,0.77
+ADULTS,Coverage,Nyeri,0.61
+ADULTS,Coverage,Nyandarua,0.39
+ADULTS,Coverage,Kiambu,0.61
+ADULTS,Coverage,Murang’a,0.44
+ADULTS,Coverage,Kirinyaga,0.65
+ADULTS,Coverage,West Pokot,0.57
+ADULTS,Coverage,Turkana,0.23
+ADULTS,Coverage,Trans Nzoia,0.47
+ADULTS,Coverage,Narok,0.45
+ADULTS,Coverage,Nandi,0.66
+ADULTS,Coverage,Nakuru,0.83
+ADULTS,Coverage,Elgeyo Marakwet,0.58
+ADULTS,Coverage,Laikipia,0.63
+ADULTS,Coverage,Kericho,1
+ADULTS,Coverage,Kajiado,0.51
+ADULTS,Coverage,Bomet,0.94
+ADULTS,Coverage,Baringo,0.64
+ADULTS,Coverage,Samburu,0.42
+ADULTS,Coverage,Uasin Gishu,1
+ADULTS,Coverage,Bungoma,0.81
+ADULTS,Coverage,Kakamega,0.83
+ADULTS,Coverage,Busia,0.95
+ADULTS,Coverage,Vihiga,0.72
+ADULTS,Coverage,Siaya,0.71
+ADULTS,Coverage,Kisii,0.79
+ADULTS,Coverage,Migori,0.83
+ADULTS,Coverage,Kisumu,0.9
+ADULTS,Coverage,Homa Bay,0.79
+ADULTS,Coverage,Nyamira,0.77
+CHILDREN,Children on ART,Kenya,86325
+CHILDREN,Children on ART,Nairobi,7611
+CHILDREN,Children on ART,Mombasa,2630
+CHILDREN,Children on ART,Kwale,785
+CHILDREN,Children on ART,Kilifi,2233
+CHILDREN,Children on ART,Lamu,99
+CHILDREN,Children on ART,Taita Taveta,352
+CHILDREN,Children on ART,Tana River,74
+CHILDREN,Children on ART,Garissa,71
+CHILDREN,Children on ART,Mandera,39
+CHILDREN,Children on ART,Wajir,9
+CHILDREN,Children on ART,Embu,747
+CHILDREN,Children on ART,Marsabit,160
+CHILDREN,Children on ART,Meru,1649
+CHILDREN,Children on ART,Isiolo,248
+CHILDREN,Children on ART,Makueni,1719
+CHILDREN,Children on ART,Kitui,2003
+CHILDREN,Children on ART,Machakos,2148
+CHILDREN,Children on ART,Tharaka Nithi,507
+CHILDREN,Children on ART,Nyeri,732
+CHILDREN,Children on ART,Nyandarua,539
+CHILDREN,Children on ART,Kiambu,1972
+CHILDREN,Children on ART,Murang’a,935
+CHILDREN,Children on ART,Kirinyaga,625
+CHILDREN,Children on ART,West Pokot,478
+CHILDREN,Children on ART,Turkana,713
+CHILDREN,Children on ART,Trans Nzoia,1144
+CHILDREN,Children on ART,Narok,887
+CHILDREN,Children on ART,Nandi,667
+CHILDREN,Children on ART,Nakuru,2963
+CHILDREN,Children on ART,Elgeyo Marakwet,232
+CHILDREN,Children on ART,Laikipia,457
+CHILDREN,Children on ART,Kericho,1462
+CHILDREN,Children on ART,Kajiado,845
+CHILDREN,Children on ART,Bomet,850
+CHILDREN,Children on ART,Baringo,364
+CHILDREN,Children on ART,Samburu,232
+CHILDREN,Children on ART,Uasin Gishu,2067
+CHILDREN,Children on ART,Bungoma,2104
+CHILDREN,Children on ART,Kakamega,3977
+CHILDREN,Children on ART,Busia,2415
+CHILDREN,Children on ART,Vihiga,1370
+CHILDREN,Children on ART,Siaya,7462
+CHILDREN,Children on ART,Kisii,2337
+CHILDREN,Children on ART,Migori,6175
+CHILDREN,Children on ART,Kisumu,8225
+CHILDREN,Children on ART,Homa Bay,9655
+CHILDREN,Children on ART,Nyamira,1357
+CHILDREN,Coverage,Kenya,0.82
+CHILDREN,Coverage,Nairobi,0.94
+CHILDREN,Coverage,Mombasa,0.86
+CHILDREN,Coverage,Kwale,0.55
+CHILDREN,Coverage,Kilifi,0.92
+CHILDREN,Coverage,Lamu,0.51
+CHILDREN,Coverage,Taita Taveta,0.47
+CHILDREN,Coverage,Tana River,0.45
+CHILDREN,Coverage,Garissa,0.13
+CHILDREN,Coverage,Mandera,0.21
+CHILDREN,Coverage,Wajir,0.15
+CHILDREN,Coverage,Embu,0.87
+CHILDREN,Coverage,Marsabit,0.78
+CHILDREN,Coverage,Meru,0.86
+CHILDREN,Coverage,Isiolo,0.99
+CHILDREN,Coverage,Makueni,0.88
+CHILDREN,Coverage,Kitui,0.88
+CHILDREN,Coverage,Machakos,0.9
+CHILDREN,Coverage,Tharaka Nithi,0.75
+CHILDREN,Coverage,Nyeri,0.84
+CHILDREN,Coverage,Nyandarua,0.83
+CHILDREN,Coverage,Kiambu,0.82
+CHILDREN,Coverage,Murang’a,0.76
+CHILDREN,Coverage,West Pokot,0.98
+CHILDREN,Coverage,Turkana,0.38
+CHILDREN,Coverage,Trans Nzoia,0.49
+CHILDREN,Coverage,Narok,0.6
+CHILDREN,Coverage,Nandi,0.64
+CHILDREN,Coverage,Nakuru,0.74
+CHILDREN,Coverage,Elgeyo Marakwet,0.6
+CHILDREN,Coverage,Laikipia,0.61
+CHILDREN,Coverage,Kajiado,0.42
+CHILDREN,Coverage,Bomet,0.99
+CHILDREN,Coverage,Baringo,0.76
+CHILDREN,Coverage,Samburu,0.93
+CHILDREN,Coverage,Uasin Gishu,0.79
+CHILDREN,Coverage,Bungoma,0.88
+CHILDREN,Coverage,Kakamega,0.94
+CHILDREN,Coverage,Busia,0.78
+CHILDREN,Coverage,Vihiga,0.86
+CHILDREN,Coverage,Siaya,0.79
+CHILDREN,Coverage,Kisii,0.8
+CHILDREN,Coverage,Migori,0.93
+CHILDREN,Coverage,Kisumu,0.87
+CHILDREN,Coverage,Homa Bay,0.9
+CHILDREN,Coverage,Nyamira,0.93
+PREGNANT WOMEN,Need for PMTCT,Kenya,69497
+PREGNANT WOMEN,Need for PMTCT,Nairobi,7809
+PREGNANT WOMEN,Need for PMTCT,Mombasa,1968
+PREGNANT WOMEN,Need for PMTCT,Kwale,913
+PREGNANT WOMEN,Need for PMTCT,Kilifi,1562
+PREGNANT WOMEN,Need for PMTCT,Lamu,125
+PREGNANT WOMEN,Need for PMTCT,Taita Taveta,483
+PREGNANT WOMEN,Need for PMTCT,Tana River,106
+PREGNANT WOMEN,Need for PMTCT,Garissa,188
+PREGNANT WOMEN,Need for PMTCT,Mandera,64
+PREGNANT WOMEN,Need for PMTCT,Wajir,21
+PREGNANT WOMEN,Need for PMTCT,Embu,432
+PREGNANT WOMEN,Need for PMTCT,Marsabit,104
+PREGNANT WOMEN,Need for PMTCT,Meru,966
+PREGNANT WOMEN,Need for PMTCT,Isiolo,126
+PREGNANT WOMEN,Need for PMTCT,Makueni,990
+PREGNANT WOMEN,Need for PMTCT,Kitui,1154
+PREGNANT WOMEN,Need for PMTCT,Machakos,1211
+PREGNANT WOMEN,Need for PMTCT,Tharaka Nithi,340
+PREGNANT WOMEN,Need for PMTCT,Nyeri,548
+PREGNANT WOMEN,Need for PMTCT,Nyandarua,410
+PREGNANT WOMEN,Need for PMTCT,Kiambu,1510
+PREGNANT WOMEN,Need for PMTCT,Murang’a,777
+PREGNANT WOMEN,Need for PMTCT,Kirinyaga,371
+PREGNANT WOMEN,Need for PMTCT,West Pokot,289
+PREGNANT WOMEN,Need for PMTCT,Turkana,1117
+PREGNANT WOMEN,Need for PMTCT,Trans Nzoia,1393
+PREGNANT WOMEN,Need for PMTCT,Narok,880
+PREGNANT WOMEN,Need for PMTCT,Nandi,613
+PREGNANT WOMEN,Need for PMTCT,Nakuru,2384
+PREGNANT WOMEN,Need for PMTCT,Elgeyo Marakwet,230
+PREGNANT WOMEN,Need for PMTCT,Laikipia,446
+PREGNANT WOMEN,Need for PMTCT,Kericho,843
+PREGNANT WOMEN,Need for PMTCT,Kajiado,1196
+PREGNANT WOMEN,Need for PMTCT,Bomet,511
+PREGNANT WOMEN,Need for PMTCT,Baringo,282
+PREGNANT WOMEN,Need for PMTCT,Samburu,148
+PREGNANT WOMEN,Need for PMTCT,Uasin Gishu,1551
+PREGNANT WOMEN,Need for PMTCT,Bungoma,1868
+PREGNANT WOMEN,Need for PMTCT,Kakamega,3294
+PREGNANT WOMEN,Need for PMTCT,Busia,2401
+PREGNANT WOMEN,Need for PMTCT,Vihiga,1240
+PREGNANT WOMEN,Need for PMTCT,Siaya,6222
+PREGNANT WOMEN,Need for PMTCT,Kisii,1914
+PREGNANT WOMEN,Need for PMTCT,Migori,4335
+PREGNANT WOMEN,Need for PMTCT,Kisumu,6181
+PREGNANT WOMEN,Need for PMTCT,Homa Bay,7021
+PREGNANT WOMEN,Need for PMTCT,Nyamira,960
+PREGNANT WOMEN,No on PMTCT,Kenya,53067
+PREGNANT WOMEN,No on PMTCT,Nairobi,7056
+PREGNANT WOMEN,No on PMTCT,Mombasa,1970
+PREGNANT WOMEN,No on PMTCT,Kwale,445
+PREGNANT WOMEN,No on PMTCT,Kilifi,1081
+PREGNANT WOMEN,No on PMTCT,Lamu,96
+PREGNANT WOMEN,No on PMTCT,Taita Taveta,177
+PREGNANT WOMEN,No on PMTCT,Tana River,25
+PREGNANT WOMEN,No on PMTCT,Garissa,31
+PREGNANT WOMEN,No on PMTCT,Mandera,3
+PREGNANT WOMEN,No on PMTCT,Wajir,0
+PREGNANT WOMEN,No on PMTCT,Embu,302
+PREGNANT WOMEN,No on PMTCT,Marsabit,29
+PREGNANT WOMEN,No on PMTCT,Meru,558
+PREGNANT WOMEN,No on PMTCT,Isiolo,56
+PREGNANT WOMEN,No on PMTCT,Makueni,546
+PREGNANT WOMEN,No on PMTCT,Kitui,615
+PREGNANT WOMEN,No on PMTCT,Machakos,979
+PREGNANT WOMEN,No on PMTCT,Tharaka Nithi,132
+PREGNANT WOMEN,No on PMTCT,Nyeri,442
+PREGNANT WOMEN,No on PMTCT,Nyandarua,340
+PREGNANT WOMEN,No on PMTCT,Kiambu,1836
+PREGNANT WOMEN,No on PMTCT,Murang’a,460
+PREGNANT WOMEN,No on PMTCT,Kirinyaga,307
+PREGNANT WOMEN,No on PMTCT,West Pokot,130
+PREGNANT WOMEN,No on PMTCT,Turkana,531
+PREGNANT WOMEN,No on PMTCT,Trans Nzoia,611
+PREGNANT WOMEN,No on PMTCT,Narok,472
+PREGNANT WOMEN,No on PMTCT,Nandi,476
+PREGNANT WOMEN,No on PMTCT,Nakuru,1933
+PREGNANT WOMEN,No on PMTCT,Elgeyo Marakwet,176
+PREGNANT WOMEN,No on PMTCT,Laikipia,305
+PREGNANT WOMEN,No on PMTCT,Kericho,532
+PREGNANT WOMEN,No on PMTCT,Kajiado,922
+PREGNANT WOMEN,No on PMTCT,Bomet,464
+PREGNANT WOMEN,No on PMTCT,Baringo,204
+PREGNANT WOMEN,No on PMTCT,Samburu,47
+PREGNANT WOMEN,No on PMTCT,Uasin Gishu,1109
+PREGNANT WOMEN,No on PMTCT,Bungoma,1424
+PREGNANT WOMEN,No on PMTCT,Kakamega,2176
+PREGNANT WOMEN,No on PMTCT,Busia,1597
+PREGNANT WOMEN,No on PMTCT,Vihiga,605
+PREGNANT WOMEN,No on PMTCT,Siaya,4564
+PREGNANT WOMEN,No on PMTCT,Kisii,1055
+PREGNANT WOMEN,No on PMTCT,Migori,4034
+PREGNANT WOMEN,No on PMTCT,Kisumu,5398
+PREGNANT WOMEN,No on PMTCT,Homa Bay,6304
+PREGNANT WOMEN,No on PMTCT,Nyamira,512
+PREGNANT WOMEN,Coverage,Kenya,0.76
+PREGNANT WOMEN,Coverage,Nairobi,0.9
+PREGNANT WOMEN,Coverage,Mombasa,1
+PREGNANT WOMEN,Coverage,Kwale,0.49
+PREGNANT WOMEN,Coverage,Kilifi,0.69
+PREGNANT WOMEN,Coverage,Lamu,0.77
+PREGNANT WOMEN,Coverage,Taita Taveta,0.37
+PREGNANT WOMEN,Coverage,Tana River,0.24
+PREGNANT WOMEN,Coverage,Garissa,0.16
+PREGNANT WOMEN,Coverage,Mandera,0.05
+PREGNANT WOMEN,Coverage,Wajir,0
+PREGNANT WOMEN,Coverage,Embu,0.7
+PREGNANT WOMEN,Coverage,Marsabit,0.28
+PREGNANT WOMEN,Coverage,Meru,0.58
+PREGNANT WOMEN,Coverage,Isiolo,0.44
+PREGNANT WOMEN,Coverage,Makueni,0.55
+PREGNANT WOMEN,Coverage,Kitui,0.53
+PREGNANT WOMEN,Coverage,Machakos,0.81
+PREGNANT WOMEN,Coverage,Tharaka Nithi,0.39
+PREGNANT WOMEN,Coverage,Nyeri,0.81
+PREGNANT WOMEN,Coverage,Nyandarua,0.83
+PREGNANT WOMEN,Coverage,Murang’a,0.59
+PREGNANT WOMEN,Coverage,Kirinyaga,0.83
+PREGNANT WOMEN,Coverage,West Pokot,0.45
+PREGNANT WOMEN,Coverage,Turkana,0.48
+PREGNANT WOMEN,Coverage,Trans Nzoia,0.44
+PREGNANT WOMEN,Coverage,Narok,0.54
+PREGNANT WOMEN,Coverage,Nandi,0.78
+PREGNANT WOMEN,Coverage,Nakuru,0.81
+PREGNANT WOMEN,Coverage,Elgeyo Marakwet,0.76
+PREGNANT WOMEN,Coverage,Laikipia,0.68
+PREGNANT WOMEN,Coverage,Kericho,0.63
+PREGNANT WOMEN,Coverage,Kajiado,0.77
+PREGNANT WOMEN,Coverage,Bomet,0.91
+PREGNANT WOMEN,Coverage,Baringo,0.72
+PREGNANT WOMEN,Coverage,Samburu,0.32
+PREGNANT WOMEN,Coverage,Uasin Gishu,0.71
+PREGNANT WOMEN,Coverage,Bungoma,0.76
+PREGNANT WOMEN,Coverage,Kakamega,0.66
+PREGNANT WOMEN,Coverage,Busia,0.67
+PREGNANT WOMEN,Coverage,Vihiga,0.49
+PREGNANT WOMEN,Coverage,Siaya,0.73
+PREGNANT WOMEN,Coverage,Kisii,0.55
+PREGNANT WOMEN,Coverage,Migori,0.93
+PREGNANT WOMEN,Coverage,Kisumu,0.87
+PREGNANT WOMEN,Coverage,Homa Bay,0.9
+PREGNANT WOMEN,Coverage,Nyamira,0.53
+PREGNANT WOMEN,MTCT Rate,Kenya,0.115
+PREGNANT WOMEN,MTCT Rate,Nairobi,0.085
+PREGNANT WOMEN,MTCT Rate,Mombasa,0.034
+PREGNANT WOMEN,MTCT Rate,Kwale,0.115
+PREGNANT WOMEN,MTCT Rate,Kilifi,0.083
+PREGNANT WOMEN,MTCT Rate,Lamu,0.071
+PREGNANT WOMEN,MTCT Rate,Taita Taveta,0.134
+PREGNANT WOMEN,MTCT Rate,Tana River,0.154
+PREGNANT WOMEN,MTCT Rate,Garissa,0.282
+PREGNANT WOMEN,MTCT Rate,Mandera,0.314
+PREGNANT WOMEN,MTCT Rate,Wajir,0.326
+PREGNANT WOMEN,MTCT Rate,Embu,0.129
+PREGNANT WOMEN,MTCT Rate,Marsabit,0.233
+PREGNANT WOMEN,MTCT Rate,Meru,0.159
+PREGNANT WOMEN,MTCT Rate,Isiolo,0.192
+PREGNANT WOMEN,MTCT Rate,Makueni,0.165
+PREGNANT WOMEN,MTCT Rate,Kitui,0.17
+PREGNANT WOMEN,MTCT Rate,Machakos,0.102
+PREGNANT WOMEN,MTCT Rate,Tharaka Nithi,0.206
+PREGNANT WOMEN,MTCT Rate,Nyeri,0.135
+PREGNANT WOMEN,MTCT Rate,Nyandarua,0.127
+PREGNANT WOMEN,MTCT Rate,Kiambu,0.062
+PREGNANT WOMEN,MTCT Rate,Murang’a,0.204
+PREGNANT WOMEN,MTCT Rate,Kirinyaga,0.127
+PREGNANT WOMEN,MTCT Rate,West Pokot,0.19
+PREGNANT WOMEN,MTCT Rate,Turkana,0.183
+PREGNANT WOMEN,MTCT Rate,Trans Nzoia,0.192
+PREGNANT WOMEN,MTCT Rate,Narok,0.168
+PREGNANT WOMEN,MTCT Rate,Nandi,0.109
+PREGNANT WOMEN,MTCT Rate,Nakuru,0.101
+PREGNANT WOMEN,MTCT Rate,Elgeyo Marakwet,0.112
+PREGNANT WOMEN,MTCT Rate,Laikipia,0.132
+PREGNANT WOMEN,MTCT Rate,Kericho,0.145
+PREGNANT WOMEN,MTCT Rate,Kajiado,0.111
+PREGNANT WOMEN,MTCT Rate,Bomet,0.077
+PREGNANT WOMEN,MTCT Rate,Baringo,0.123
+PREGNANT WOMEN,MTCT Rate,Samburu,0.222
+PREGNANT WOMEN,MTCT Rate,Uasin Gishu,0.124
+PREGNANT WOMEN,MTCT Rate,Bungoma,0.108
+PREGNANT WOMEN,MTCT Rate,Kakamega,0.132
+PREGNANT WOMEN,MTCT Rate,Busia,0.131
+PREGNANT WOMEN,MTCT Rate,Vihiga,0.173
+PREGNANT WOMEN,MTCT Rate,Siaya,0.122
+PREGNANT WOMEN,MTCT Rate,Kisii,0.167
+PREGNANT WOMEN,MTCT Rate,Migori,0.072
+PREGNANT WOMEN,MTCT Rate,Kisumu,0.087
+PREGNANT WOMEN,MTCT Rate,Homa Bay,0.081
+PREGNANT WOMEN,MTCT Rate,Nyamira,0.171
+Adolescents (10-19),HIV+,Kenya,105230
+Adolescents (10-19),HIV+,Nairobi,10604
+Adolescents (10-19),HIV+,Mombasa,3164
+Adolescents (10-19),HIV+,Kwale,1467
+Adolescents (10-19),HIV+,Kilifi,2511
+Adolescents (10-19),HIV+,Lamu,201
+Adolescents (10-19),HIV+,Taita Taveta,777
+Adolescents (10-19),HIV+,Tana River,170
+Adolescents (10-19),HIV+,Garissa,577
+Adolescents (10-19),HIV+,Mandera,197
+Adolescents (10-19),HIV+,Wajir,64
+Adolescents (10-19),HIV+,Embu,847
+Adolescents (10-19),HIV+,Marsabit,204
+Adolescents (10-19),HIV+,Meru,1896
+Adolescents (10-19),HIV+,Isiolo,248
+Adolescents (10-19),HIV+,Makueni,1942
+Adolescents (10-19),HIV+,Kitui,2264
+Adolescents (10-19),HIV+,Machakos,2377
+Adolescents (10-19),HIV+,Tharaka Nithi,668
+Adolescents (10-19),HIV+,Nyeri,910
+Adolescents (10-19),HIV+,Nyandarua,680
+Adolescents (10-19),HIV+,Kiambu,2507
+Adolescents (10-19),HIV+,Murang’a,1290
+Adolescents (10-19),HIV+,Kirinyaga,615
+Adolescents (10-19),HIV+,West Pokot,451
+Adolescents (10-19),HIV+,Turkana,1743
+Adolescents (10-19),HIV+,Trans Nzoia,2173
+Adolescents (10-19),HIV+,Narok,1373
+Adolescents (10-19),HIV+,Nandi,956
+Adolescents (10-19),HIV+,Nakuru,3719
+Adolescents (10-19),HIV+,Elgeyo Marakwet,359
+Adolescents (10-19),HIV+,Laikipia,696
+Adolescents (10-19),HIV+,Kericho,1316
+Adolescents (10-19),HIV+,Kajiado,1866
+Adolescents (10-19),HIV+,Bomet,797
+Adolescents (10-19),HIV+,Baringo,441
+Adolescents (10-19),HIV+,Samburu,230
+Adolescents (10-19),HIV+,Uasin Gishu,2420
+Adolescents (10-19),HIV+,Bungoma,2297
+Adolescents (10-19),HIV+,Kakamega,4050
+Adolescents (10-19),HIV+,Busia,2951
+Adolescents (10-19),HIV+,Vihiga,1524
+Adolescents (10-19),HIV+,Siaya,9272
+Adolescents (10-19),HIV+,Kisii,2852
+Adolescents (10-19),HIV+,Migori,6459
+Adolescents (10-19),HIV+,Kisumu,9211
+Adolescents (10-19),HIV+,Homa Bay,10463
+Adolescents (10-19),HIV+,Nyamira,1431
+Adolescents (10-19),New Infections,Kenya,8177
+Adolescents (10-19),New Infections,Nairobi,1222
+Adolescents (10-19),New Infections,Mombasa,289
+Adolescents (10-19),New Infections,Kwale,134
+Adolescents (10-19),New Infections,Kilifi,229
+Adolescents (10-19),New Infections,Lamu,18
+Adolescents (10-19),New Infections,Taita Taveta,71
+Adolescents (10-19),New Infections,Tana River,16
+Adolescents (10-19),New Infections,Garissa,0
+Adolescents (10-19),New Infections,Mandera,0
+Adolescents (10-19),New Infections,Wajir,0
+Adolescents (10-19),New Infections,Embu,35
+Adolescents (10-19),New Infections,Marsabit,8
+Adolescents (10-19),New Infections,Meru,79
+Adolescents (10-19),New Infections,Isiolo,10
+Adolescents (10-19),New Infections,Makueni,81
+Adolescents (10-19),New Infections,Kitui,95
+Adolescents (10-19),New Infections,Machakos,99
+Adolescents (10-19),New Infections,Tharaka Nithi,28
+Adolescents (10-19),New Infections,Nyeri,81
+Adolescents (10-19),New Infections,Nyandarua,60
+Adolescents (10-19),New Infections,Kiambu,222
+Adolescents (10-19),New Infections,Murang’a,114
+Adolescents (10-19),New Infections,Kirinyaga,54
+Adolescents (10-19),New Infections,West Pokot,22
+Adolescents (10-19),New Infections,Turkana,87
+Adolescents (10-19),New Infections,Trans Nzoia,108
+Adolescents (10-19),New Infections,Narok,68
+Adolescents (10-19),New Infections,Nandi,48
+Adolescents (10-19),New Infections,Nakuru,185
+Adolescents (10-19),New Infections,Elgeyo Marakwet,18
+Adolescents (10-19),New Infections,Laikipia,35
+Adolescents (10-19),New Infections,Kericho,65
+Adolescents (10-19),New Infections,Kajiado,93
+Adolescents (10-19),New Infections,Bomet,40
+Adolescents (10-19),New Infections,Baringo,22
+Adolescents (10-19),New Infections,Samburu,11
+Adolescents (10-19),New Infections,Uasin Gishu,120
+Adolescents (10-19),New Infections,Bungoma,106
+Adolescents (10-19),New Infections,Kakamega,187
+Adolescents (10-19),New Infections,Busia,136
+Adolescents (10-19),New Infections,Vihiga,70
+Adolescents (10-19),New Infections,Siaya,890
+Adolescents (10-19),New Infections,Kisii,274
+Adolescents (10-19),New Infections,Migori,620
+Adolescents (10-19),New Infections,Kisumu,884
+Adolescents (10-19),New Infections,Homa Bay,1004
+Adolescents (10-19),New Infections,Nyamira,137
+Adolescents (10-19),HIV-related Deaths,Kenya,2072
+Adolescents (10-19),HIV-related Deaths,Nairobi,155
+Adolescents (10-19),HIV-related Deaths,Mombasa,67
+Adolescents (10-19),HIV-related Deaths,Kwale,31
+Adolescents (10-19),HIV-related Deaths,Kilifi,53
+Adolescents (10-19),HIV-related Deaths,Lamu,4
+Adolescents (10-19),HIV-related Deaths,Taita Taveta,16
+Adolescents (10-19),HIV-related Deaths,Tana River,4
+Adolescents (10-19),HIV-related Deaths,Garissa,32
+Adolescents (10-19),HIV-related Deaths,Mandera,11
+Adolescents (10-19),HIV-related Deaths,Wajir,4
+Adolescents (10-19),HIV-related Deaths,Embu,18
+Adolescents (10-19),HIV-related Deaths,Marsabit,4
+Adolescents (10-19),HIV-related Deaths,Meru,40
+Adolescents (10-19),HIV-related Deaths,Isiolo,5
+Adolescents (10-19),HIV-related Deaths,Makueni,41
+Adolescents (10-19),HIV-related Deaths,Kitui,48
+Adolescents (10-19),HIV-related Deaths,Machakos,50
+Adolescents (10-19),HIV-related Deaths,Tharaka Nithi,14
+Adolescents (10-19),HIV-related Deaths,Nyeri,16
+Adolescents (10-19),HIV-related Deaths,Nyandarua,12
+Adolescents (10-19),HIV-related Deaths,Kiambu,43
+Adolescents (10-19),HIV-related Deaths,Murang’a,22
+Adolescents (10-19),HIV-related Deaths,Kirinyaga,11
+Adolescents (10-19),HIV-related Deaths,West Pokot,11
+Adolescents (10-19),HIV-related Deaths,Turkana,42
+Adolescents (10-19),HIV-related Deaths,Trans Nzoia,52
+Adolescents (10-19),HIV-related Deaths,Narok,33
+Adolescents (10-19),HIV-related Deaths,Nandi,23
+Adolescents (10-19),HIV-related Deaths,Nakuru,89
+Adolescents (10-19),HIV-related Deaths,Elgeyo Marakwet,9
+Adolescents (10-19),HIV-related Deaths,Laikipia,17
+Adolescents (10-19),HIV-related Deaths,Kericho,32
+Adolescents (10-19),HIV-related Deaths,Kajiado,45
+Adolescents (10-19),HIV-related Deaths,Bomet,19
+Adolescents (10-19),HIV-related Deaths,Baringo,11
+Adolescents (10-19),HIV-related Deaths,Samburu,6
+Adolescents (10-19),HIV-related Deaths,Uasin Gishu,58
+Adolescents (10-19),HIV-related Deaths,Bungoma,53
+Adolescents (10-19),HIV-related Deaths,Kakamega,93
+Adolescents (10-19),HIV-related Deaths,Busia,68
+Adolescents (10-19),HIV-related Deaths,Vihiga,35
+Adolescents (10-19),HIV-related Deaths,Siaya,158
+Adolescents (10-19),HIV-related Deaths,Kisii,49
+Adolescents (10-19),HIV-related Deaths,Migori,110
+Adolescents (10-19),HIV-related Deaths,Kisumu,157
+Adolescents (10-19),HIV-related Deaths,Homa Bay,178
+Adolescents (10-19),HIV-related Deaths,Nyamira,24
+Young Adults (15-24),HIV+,Kenya,184719
+Young Adults (15-24),HIV+,Nairobi,24918
+Young Adults (15-24),HIV+,Mombasa,4702
+Young Adults (15-24),HIV+,Kwale,2181
+Young Adults (15-24),HIV+,Kilifi,3732
+Young Adults (15-24),HIV+,Lamu,298
+Young Adults (15-24),HIV+,Taita Taveta,1154
+Young Adults (15-24),HIV+,Tana River,253
+Young Adults (15-24),HIV+,Garissa,641
+Young Adults (15-24),HIV+,Mandera,219
+Young Adults (15-24),HIV+,Wajir,71
+Young Adults (15-24),HIV+,Embu,1241
+Young Adults (15-24),HIV+,Marsabit,298
+Young Adults (15-24),HIV+,Meru,2778
+Young Adults (15-24),HIV+,Isiolo,363
+Young Adults (15-24),HIV+,Makueni,2845
+Young Adults (15-24),HIV+,Kitui,3317
+Young Adults (15-24),HIV+,Machakos,3483
+Young Adults (15-24),HIV+,Tharaka Nithi,978
+Young Adults (15-24),HIV+,Nyeri,1949
+Young Adults (15-24),HIV+,Nyandarua,1456
+Young Adults (15-24),HIV+,Kiambu,5369
+Young Adults (15-24),HIV+,Murang’a,2763
+Young Adults (15-24),HIV+,Kirinyaga,1317
+Young Adults (15-24),HIV+,West Pokot,668
+Young Adults (15-24),HIV+,Turkana,2582
+Young Adults (15-24),HIV+,Trans Nzoia,3218
+Young Adults (15-24),HIV+,Narok,2033
+Young Adults (15-24),HIV+,Nandi,1417
+Young Adults (15-24),HIV+,Nakuru,5509
+Young Adults (15-24),HIV+,Elgeyo Marakwet,532
+Young Adults (15-24),HIV+,Laikipia,1032
+Young Adults (15-24),HIV+,Kericho,1949
+Young Adults (15-24),HIV+,Kajiado,2764
+Young Adults (15-24),HIV+,Bomet,1181
+Young Adults (15-24),HIV+,Baringo,653
+Young Adults (15-24),HIV+,Samburu,341
+Young Adults (15-24),HIV+,Uasin Gishu,3585
+Young Adults (15-24),HIV+,Bungoma,3962
+Young Adults (15-24),HIV+,Kakamega,6986
+Young Adults (15-24),HIV+,Busia,5091
+Young Adults (15-24),HIV+,Vihiga,2629
+Young Adults (15-24),HIV+,Siaya,16881
+Young Adults (15-24),HIV+,Kisii,5193
+Young Adults (15-24),HIV+,Migori,11761
+Young Adults (15-24),HIV+,Kisumu,16771
+Young Adults (15-24),HIV+,Homa Bay,19050
+Young Adults (15-24),HIV+,Nyamira,2606
+Young Adults (15-24),New Infections,Kenya,17667
+Young Adults (15-24),New Infections,Nairobi,2587
+Young Adults (15-24),New Infections,Mombasa,562
+Young Adults (15-24),New Infections,Kwale,261
+Young Adults (15-24),New Infections,Kilifi,446
+Young Adults (15-24),New Infections,Lamu,36
+Young Adults (15-24),New Infections,Taita Taveta,138
+Young Adults (15-24),New Infections,Tana River,30
+Young Adults (15-24),New Infections,Garissa,0
+Young Adults (15-24),New Infections,Mandera,0
+Young Adults (15-24),New Infections,Wajir,0
+Young Adults (15-24),New Infections,Embu,112
+Young Adults (15-24),New Infections,Marsabit,27
+Young Adults (15-24),New Infections,Meru,251
+Young Adults (15-24),New Infections,Isiolo,33
+Young Adults (15-24),New Infections,Makueni,257
+Young Adults (15-24),New Infections,Kitui,299
+Young Adults (15-24),New Infections,Machakos,314
+Young Adults (15-24),New Infections,Tharaka Nithi,88
+Young Adults (15-24),New Infections,Nyeri,265
+Young Adults (15-24),New Infections,Nyandarua,198
+Young Adults (15-24),New Infections,Kiambu,730
+Young Adults (15-24),New Infections,Murang’a,376
+Young Adults (15-24),New Infections,Kirinyaga,179
+Young Adults (15-24),New Infections,West Pokot,45
+Young Adults (15-24),New Infections,Turkana,175
+Young Adults (15-24),New Infections,Trans Nzoia,218
+Young Adults (15-24),New Infections,Narok,138
+Young Adults (15-24),New Infections,Nandi,96
+Young Adults (15-24),New Infections,Nakuru,374
+Young Adults (15-24),New Infections,Elgeyo Marakwet,36
+Young Adults (15-24),New Infections,Laikipia,70
+Young Adults (15-24),New Infections,Kericho,132
+Young Adults (15-24),New Infections,Kajiado,187
+Young Adults (15-24),New Infections,Bomet,80
+Young Adults (15-24),New Infections,Baringo,44
+Young Adults (15-24),New Infections,Samburu,23
+Young Adults (15-24),New Infections,Uasin Gishu,243
+Young Adults (15-24),New Infections,Bungoma,338
+Young Adults (15-24),New Infections,Kakamega,596
+Young Adults (15-24),New Infections,Busia,434
+Young Adults (15-24),New Infections,Vihiga,224
+Young Adults (15-24),New Infections,Siaya,1641
+Young Adults (15-24),New Infections,Kisii,505
+Young Adults (15-24),New Infections,Migori,1143
+Young Adults (15-24),New Infections,Kisumu,1630
+Young Adults (15-24),New Infections,Homa Bay,1852
+Young Adults (15-24),New Infections,Nyamira,253
+Young Adults (15-24),HIV-related Deaths,Kenya,2830
+Young Adults (15-24),HIV-related Deaths,Nairobi,294
+Young Adults (15-24),HIV-related Deaths,Mombasa,79
+Young Adults (15-24),HIV-related Deaths,Kwale,37
+Young Adults (15-24),HIV-related Deaths,Kilifi,63
+Young Adults (15-24),HIV-related Deaths,Lamu,5
+Young Adults (15-24),HIV-related Deaths,Taita Taveta,19
+Young Adults (15-24),HIV-related Deaths,Tana River,4
+Young Adults (15-24),HIV-related Deaths,Garissa,36
+Young Adults (15-24),HIV-related Deaths,Mandera,12
+Young Adults (15-24),HIV-related Deaths,Wajir,4
+Young Adults (15-24),HIV-related Deaths,Embu,23
+Young Adults (15-24),HIV-related Deaths,Marsabit,6
+Young Adults (15-24),HIV-related Deaths,Meru,52
+Young Adults (15-24),HIV-related Deaths,Isiolo,7
+Young Adults (15-24),HIV-related Deaths,Makueni,53
+Young Adults (15-24),HIV-related Deaths,Kitui,62
+Young Adults (15-24),HIV-related Deaths,Machakos,65
+Young Adults (15-24),HIV-related Deaths,Tharaka Nithi,18
+Young Adults (15-24),HIV-related Deaths,Nyeri,28
+Young Adults (15-24),HIV-related Deaths,Nyandarua,21
+Young Adults (15-24),HIV-related Deaths,Kiambu,77
+Young Adults (15-24),HIV-related Deaths,Murang’a,40
+Young Adults (15-24),HIV-related Deaths,Kirinyaga,19
+Young Adults (15-24),HIV-related Deaths,West Pokot,13
+Young Adults (15-24),HIV-related Deaths,Turkana,51
+Young Adults (15-24),HIV-related Deaths,Trans Nzoia,63
+Young Adults (15-24),HIV-related Deaths,Narok,40
+Young Adults (15-24),HIV-related Deaths,Nandi,28
+Young Adults (15-24),HIV-related Deaths,Nakuru,108
+Young Adults (15-24),HIV-related Deaths,Elgeyo Marakwet,10
+Young Adults (15-24),HIV-related Deaths,Laikipia,20
+Young Adults (15-24),HIV-related Deaths,Kericho,38
+Young Adults (15-24),HIV-related Deaths,Kajiado,54
+Young Adults (15-24),HIV-related Deaths,Bomet,23
+Young Adults (15-24),HIV-related Deaths,Baringo,13
+Young Adults (15-24),HIV-related Deaths,Samburu,7
+Young Adults (15-24),HIV-related Deaths,Uasin Gishu,70
+Young Adults (15-24),HIV-related Deaths,Bungoma,71
+Young Adults (15-24),HIV-related Deaths,Kakamega,126
+Young Adults (15-24),HIV-related Deaths,Busia,92
+Young Adults (15-24),HIV-related Deaths,Vihiga,47
+Young Adults (15-24),HIV-related Deaths,Siaya,218
+Young Adults (15-24),HIV-related Deaths,Kisii,67
+Young Adults (15-24),HIV-related Deaths,Migori,152
+Young Adults (15-24),HIV-related Deaths,Kisumu,216
+Young Adults (15-24),HIV-related Deaths,Homa Bay,246
+Young Adults (15-24),HIV-related Deaths,Nyamira,34

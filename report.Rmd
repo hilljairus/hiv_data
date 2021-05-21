@@ -1,0 +1,42 @@
+---
+title: "Report"
+output: html_document
+params:
+  county: NA
+  mapOutput: NA
+  age: NA
+  indicator: NA
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(knitr.kable.NA = "**")
+`%>%` <- magrittr::`%>%`
+```
+
+## Indicators
+
+`r params$county` Indicators
+
+
+```{r tbl, message=FALSE, warning=FALSE, echo=FALSE}
+hiv<-readr::read_csv("C:/Users/Ragang'/Desktop/Dataset/hiv_estimates.csv")
+hiv_wider<-tidyr::pivot_wider(hiv, names_from=Age, values_from = Value)
+kableExtra::kbl(hiv_wider[hiv_wider$County==params$county,],
+                digits = 0,
+                align = 'c'
+                ) %>%
+  kableExtra::column_spec(2:8, width = "5cm") %>%
+   kableExtra::kable_styling(bootstrap_options = c("striped", "hover", "condensed",  "responsive"))
+
+
+  
+```
+
+## Map
+Geospatial visualization of `r params$indicator` of `r params$age` across the country
+
+
+```{r map, message=FALSE, warning=FALSE, echo=FALSE}
+params$mapOutput
+```
