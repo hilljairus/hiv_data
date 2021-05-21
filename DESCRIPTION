@@ -1,0 +1,22 @@
+Package: MAP
+Title: 
+Version: 0.0.0.9000
+Authors@R: person('HILLARY', 'oDHIAMBO', email = 'HILLJAIRUS@GMAIL.COM', role = c('cre', 'aut'))
+Description: PKG_DESC.
+License: MIT + file LICENSE
+Imports: 
+    config,
+    golem,
+    shiny,
+    processx,
+    attempt,
+    DT,
+    glue,
+    htmltools,
+    shinydashboard,
+    shinybusy
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Suggests: 
+    testthat
